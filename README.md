@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Dynamics 365 Finance and Operations Technical Consultant.<br>🌱 I proactively develop solutions in CoPilot Studio, Power Automate, Azure Data Factory, LogicApps, etc.<br>⚡ I have a LinkendIn newsletter named Dynamics 365 & Power Solutions where I post solutions to real life problems encountered with clients.<br>📚 I have a Diploma in Data Science from IIT Madras and I am fluent in Python.<br>👨‍🔧 I have honed my skills in low code/no code platforms like Microsoft Power Apps.
+🔭 I’m a Dynamics 365 Finance and Operations Technical Consultant.<br>🌱 I proactively develop solutions in CoPilot Studio, Power Automate, Azure Data Factory, LogicApps, etc.<br>⚡ I have a LinkendIn newsletter named Dynamics 365 & Power Solutions where I post solutions to real life problems encountered with clients.<br>📚 I have a Diploma in Data Science from IIT Madras and I am fluent in Python.<br>👨‍🔧 I have honed my skills in low code/no code platforms like Microsoft Power Apps.<br>🌎 You can visit my profile at <a, href="https://www.linkedin.com/in/khizaransari009/">LinkedIn</a> to connect with me.<br>
 
 
 ## 🌐 Socials:
